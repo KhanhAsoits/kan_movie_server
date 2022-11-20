@@ -1,0 +1,345 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "khanhdaica1312",
+      "phone": "0376658437",
+      "avatar": "file:///var/mobile/Containers/Data/Application/42F81535-A69C-4921-BD4F-774AB239829E/Library/Caches/ExponentExperienceData/%2540anonymous%252Fkan_movie-5649c6d6-a335-42f2-a436-2a44b833290c/ImagePicker/C4B7E0DC-E158-4519-A8D7-F75E1368075A.jpg",
+      "email": "dangkhanh.dev@gmail.com",
+      "password": "hash_pass",
+      "birthday": "20/12/2002",
+      "time": "1040372100000"
+    },
+    {
+      "username": "khanhdaica",
+      "email": "khanhaxios.dev@gmail.com",
+      "phone": "0376658437",
+      "birthday": "Tue Jan 31 2012 00:00:00 GMT+0700 (+07)",
+      "avatar": "file:///var/mobile/Containers/Data/Application/42F81535-A69C-4921-BD4F-774AB239829E/Library/Caches/ExponentExperienceData/%2540anonymous%252Fkan_movie-5649c6d6-a335-42f2-a436-2a44b833290c/ImagePicker/F073454E-4963-46D3-BD33-55173587B27E.jpg",
+      "time": 1327942800000,
+      "password": "U2FsdGVkX19MH3vFKcNF/t5HjsfUXuHEwKDuVTi/XsA=",
+      "id": "c5f17f89-9d7f-4802-82e7-9e49bcc3ad6f",
+      "createdAt": 1668949148834
+    },
+    {
+      "username": "khanhdaica",
+      "email": "khanhaxios.dev@gmail.com",
+      "phone": "0376658437",
+      "birthday": "Tue Jan 31 2012 00:00:00 GMT+0700 (+07)",
+      "avatar": "file:///var/mobile/Containers/Data/Application/42F81535-A69C-4921-BD4F-774AB239829E/Library/Caches/ExponentExperienceData/%2540anonymous%252Fkan_movie-5649c6d6-a335-42f2-a436-2a44b833290c/ImagePicker/F073454E-4963-46D3-BD33-55173587B27E.jpg",
+      "time": 1327942800000,
+      "password": "U2FsdGVkX1/KlmYIVKprG3+GN9dYDxoWvqpPvY+Neqo=",
+      "id": "b30be562-91ca-43f6-a6bf-84e6a02caa93",
+      "createdAt": 1668949150336
+    },
+    {
+      "username": "khanhdaica",
+      "email": "khajaj@gmail.com",
+      "phone": "0376658437",
+      "birthday": "Fri Dec 20 2002 00:00:00 GMT+0700 (+07)",
+      "avatar": "file:///var/mobile/Containers/Data/Application/42F81535-A69C-4921-BD4F-774AB239829E/Library/Caches/ExponentExperienceData/%2540anonymous%252Fkan_movie-5649c6d6-a335-42f2-a436-2a44b833290c/ImagePicker/32EEE913-A51B-4869-ADB7-5FB80BB05B67.jpg",
+      "time": 1040317200000,
+      "password": "U2FsdGVkX1+KYUjUtwdjkEtBib0kOGnfnH8Yzk9AVHU=",
+      "id": "bb1afcee-9b61-42b3-b164-34451f170c09",
+      "createdAt": 1668950023082
+    }
+  ],
+  "cinema": [
+    {
+      "id": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+      "name": "Galaxy Cinema",
+      "seats": [
+        {
+          "A": 3
+        },
+        {
+          "B": 8
+        },
+        {
+          "C": 6
+        },
+        {
+          "D": 6
+        },
+        {
+          "E": 8
+        },
+        {
+          "F": 6
+        },
+        {
+          "G": 9
+        },
+        {
+          "H": 12
+        },
+        {
+          "I": 9
+        },
+        {
+          "K": 9
+        },
+        {
+          "M": 12
+        },
+        {
+          "L": 9
+        }
+      ]
+    },
+    {
+      "id": "e000e511-30cc-44b5-942f-89216663e49e",
+      "name": "Lotte Cinema",
+      "seats": [
+        {
+          "A": 3
+        },
+        {
+          "B": 8
+        },
+        {
+          "C": 6
+        },
+        {
+          "D": 6
+        },
+        {
+          "E": 8
+        },
+        {
+          "F": 6
+        },
+        {
+          "G": 9
+        },
+        {
+          "H": 12
+        },
+        {
+          "I": 9
+        },
+        {
+          "K": 9
+        },
+        {
+          "M": 12
+        },
+        {
+          "L": 9
+        }
+      ]
+    },
+    {
+      "id": "27ca30af-3fc6-4fd1-b595-a645b972947a",
+      "name": "Cinema 1-5",
+      "seats": [
+        {
+          "A": 3
+        },
+        {
+          "B": 8
+        },
+        {
+          "C": 6
+        },
+        {
+          "D": 6
+        },
+        {
+          "E": 8
+        },
+        {
+          "F": 6
+        },
+        {
+          "G": 9
+        },
+        {
+          "H": 12
+        },
+        {
+          "I": 9
+        },
+        {
+          "K": 9
+        },
+        {
+          "M": 12
+        },
+        {
+          "L": 9
+        }
+      ]
+    },
+    {
+      "id": "c8f56cd3-4643-4cd9-ac22-e69305be77fd",
+      "name": "Venus Cinema",
+      "seats": [
+        {
+          "A": 3
+        },
+        {
+          "B": 8
+        },
+        {
+          "C": 6
+        },
+        {
+          "D": 6
+        },
+        {
+          "E": 8
+        },
+        {
+          "F": 6
+        },
+        {
+          "G": 9
+        },
+        {
+          "H": 12
+        },
+        {
+          "I": 9
+        },
+        {
+          "K": 9
+        },
+        {
+          "M": 12
+        },
+        {
+          "L": 9
+        }
+      ]
+    },
+    {
+      "id": "06d28285-7265-474d-8d8d-b73fa13f8295",
+      "name": "Coffee Cinema",
+      "seats": [
+        {
+          "A": 3
+        },
+        {
+          "B": 8
+        },
+        {
+          "C": 6
+        },
+        {
+          "D": 6
+        },
+        {
+          "E": 8
+        },
+        {
+          "F": 6
+        },
+        {
+          "G": 9
+        },
+        {
+          "H": 12
+        },
+        {
+          "I": 9
+        },
+        {
+          "K": 9
+        },
+        {
+          "M": 12
+        },
+        {
+          "L": 9
+        }
+      ]
+    },
+    {
+      "id": "dfb09ab3-3220-4607-8481-8df4131638e9",
+      "name": "CGV Plaza",
+      "seats": [
+        {
+          "A": 3
+        },
+        {
+          "B": 8
+        },
+        {
+          "C": 6
+        },
+        {
+          "D": 6
+        },
+        {
+          "E": 8
+        },
+        {
+          "F": 6
+        },
+        {
+          "G": 9
+        },
+        {
+          "H": 12
+        },
+        {
+          "I": 9
+        },
+        {
+          "K": 9
+        },
+        {
+          "M": 12
+        },
+        {
+          "L": 9
+        }
+      ]
+    },
+    {
+      "id": "b27cff98-dd55-478d-b80e-183f6be72cd5",
+      "name": "Aki Coffee Film",
+      "seats": [
+        {
+          "A": 3
+        },
+        {
+          "B": 8
+        },
+        {
+          "C": 6
+        },
+        {
+          "D": 6
+        },
+        {
+          "E": 8
+        },
+        {
+          "F": 6
+        },
+        {
+          "G": 9
+        },
+        {
+          "H": 12
+        },
+        {
+          "I": 9
+        },
+        {
+          "K": 9
+        },
+        {
+          "M": 12
+        },
+        {
+          "L": 9
+        }
+      ]
+    }
+  ],
+  "show_times": [],
+  "ticket": []
+}
